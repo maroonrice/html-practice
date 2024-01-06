@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+dl {
+  display: flex;
+  margin: 0 0 10px 0;
+}
+
+dl > dt {
+  width: 80px;
+  padding: 10px;
+  margin: 0;
+  flex: initial;
+}
+
+dl > dd {
+  padding: 10px;
+  margin: 0;
+  flex: auto;
+}
