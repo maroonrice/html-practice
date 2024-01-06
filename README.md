@@ -12,3 +12,13 @@ nodejsでExpressから参照するようにします
 * lこのディレクトリの下で、`node server.js` コマンドを実行する
   * `start express` と表示されればOK
 * [http://localhost:8081/](http://localhost:8081/) にアクセスする
+
+## 念のため・・・
+
+gitのクローン方法
+
+* gitクライアントをインストールする
+  * https://gitforwindows.org/
+* コマンドラインでクローンする場所に移動する
+* `git clone https://github.com/maroonrice/html-practice.git` を実行する
+  * URLはRepositoryトップページのCodeボタンを押すと出てくる
