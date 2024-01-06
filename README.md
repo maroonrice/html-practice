@@ -22,3 +22,9 @@ gitのクローン方法
 * コマンドラインでクローンする場所に移動する
 * `git clone https://github.com/maroonrice/html-practice.git` を実行する
   * URLはRepositoryトップページのCodeボタンを押すと出てくる
+
+## インターネット公開するなら
+
+* AWS S3+CloudFront
+  * https://dev.classmethod.jp/articles/s3-cloudfront-static-site-design-patterns-2022/
+  * S3もCloudFrontも無料枠があるのでアクセス量多くなければお金はかからないです

@@ -1,4 +1,3 @@
-let count = 0
 document.querySelector('#load').addEventListener('click', async (event) => {
   const jsonname = document.querySelector('#loadjson').value
   console.log(jsonname)
